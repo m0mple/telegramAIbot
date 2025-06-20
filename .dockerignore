@@ -1,0 +1,5 @@
+.env
+**/.env*
+*.swp
+.git
+__pycache__
